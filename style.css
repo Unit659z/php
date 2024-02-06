@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+}
+
+.head_text {
+    margin:auto;
+}
+
+.head_wrap {
+    display: flex;
+}
+
